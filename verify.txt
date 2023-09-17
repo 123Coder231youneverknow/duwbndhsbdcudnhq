@@ -1,1 +1,5 @@
-
+			name = "YulaWare",
+			ownerid = "pJEhLkEgJt",
+			secret = "87f336b0b4ca66ceb43203301886a319b2a23b3920acba14a54a61056a9dc94f",
+			version = "1.0",
+			hash_to_check = getchecksum()
